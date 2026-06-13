@@ -7,16 +7,33 @@ EDA, and an interactive Power BI dashboard.
 
 ## 📁 Project Structure
 marketing-campaign-analysis/
-├── 📂 Dataset/
-│   └── cleaned_marketing_data.csv
-├── 📂 SQL/
-│   └── marketing_queries.sql
-├── 📂 Python/
-│   └── marketing_analysis.ipynb
-├── 📂 PowerBI/
-│   └── Marketing_Dashboard.pbix
-└── 📄 README.md
+│
 
+├── 📂 Dataset/
+
+│   └── cleaned_marketing_data.csv
+
+│
+
+├── 📂 SQL/
+
+│   └── marketing_queries.sql
+
+│
+
+├── 📂 Python/
+
+│   └── marketing_analysis.ipynb
+
+│
+
+├── 📂 PowerBI/
+
+│   └── Marketing_Dashboard.pbix
+
+│
+
+└── 📄 README.md
 ---
 
 ## 🛠️ Tools Used
