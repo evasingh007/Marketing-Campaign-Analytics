@@ -107,3 +107,6 @@ marketing-campaign-analysis/
 - df.head(), df.shape(), df.info()
 - df.describe() for statistics
 - Data cleaning
+- 
+## 📸 Dashboard Preview
+<img width="1248" height="672" alt="image" src="https://github.com/user-attachments/assets/039ba8bd-c203-4d8a-97c5-97c481af53b6" />
